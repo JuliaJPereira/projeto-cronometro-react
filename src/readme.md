@@ -4,4 +4,4 @@ Projeto de _cronômetro_ desenvolvido em React para fins de estudos e aperfeiço
 
 ## Prewiew
 
-[![]()]()
+[![](https://github.com/JuliaJPereira/projeto-cronometro-react/blob/master/src/assets/gif.gif)]()
