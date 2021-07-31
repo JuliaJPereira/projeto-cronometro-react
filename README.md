@@ -1,4 +1,4 @@
-# CRONÔMETRO
+# Projeto CRONÔMETRO
 
 Este projeto de estudo do cronômetro foi desenvolvido em **React**, com o objetivo de praticar o uso das states e também as funções temporizadoras, **setInterval** e **clearInterval**.
 
